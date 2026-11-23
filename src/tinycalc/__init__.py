@@ -24,3 +24,8 @@ def negate(value: float) -> float:
 def double(value):
     """Return value multiplied by 2."""
     return value * 2
+
+
+def triple(value):
+    """Return value multiplied by 3."""
+    return value * 3
