@@ -19,3 +19,8 @@ def absolute(value: float) -> float:
 def negate(value: float) -> float:
     """Return the additive inverse of a number."""
     return -value
+
+
+def double(value):
+    """Return value multiplied by 2."""
+    return value * 2
