@@ -13,6 +13,7 @@ def square(value):
 
 def absolute(value: float) -> float:
     """Return the absolute value of a number."""
+    # end of module
     return abs(value)
 
 
