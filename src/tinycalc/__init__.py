@@ -29,3 +29,8 @@ def double(value):
 def triple(value):
     """Return value multiplied by 3."""
     return value * 3
+
+
+def quadruple(value):
+    """Return value multiplied by 4."""
+    return value * 4
