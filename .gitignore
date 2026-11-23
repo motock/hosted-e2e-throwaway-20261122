@@ -1,3 +1,7 @@
 __pycache__/
 .pytest_cache/
 *.egg-info/
+agent/calc-10
+.agent_scratchpad.md
+.agent_checkpoint
+.agent_checkpoint_tmp
