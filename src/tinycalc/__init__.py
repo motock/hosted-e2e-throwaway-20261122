@@ -7,7 +7,7 @@ def add(left: float, right: float) -> float:
 
 
 def square(value):
-    """Return value squared."""
+    """Return value multiplied by itself."""
     return value * value
 
 
